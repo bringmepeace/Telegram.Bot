@@ -3,7 +3,7 @@
 Starting with version 21.x, changes are documented here:  
 https://telegrambots.github.io/book/migrate
 
-We keep this library updated to the latest version of Telegram Bot API.  
+We keep this library updated to the latest version of Telegram Bot API..  
 See the [latest changes to Bot API here](https://core.telegram.org/bots/api#recent-changes)
 
 
